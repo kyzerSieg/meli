@@ -1,0 +1,12 @@
+//
+//  Localizable.strings
+//  Mercadolibre
+//
+//  Created by Mauricio Pacheco on 19-03-22.
+//
+
+"title" = "Mercado Libre";
+"not_data" = "Debe ingresar un producto a buscar";
+"roger" = "Aceptar";
+"not_found" = "Lo sentimos. La información solicitada no pudo ser obtenida.";
+"error" = "Error";
